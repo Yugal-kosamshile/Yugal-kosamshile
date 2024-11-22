@@ -1,8 +1,12 @@
 # Hi, I’m @Yugal-kosamshile! 👋
 
 - 👀 **I’m interested in**: Android app development, web development, and exploring innovative software solutions.  
-- 🌱 **I’m currently learning**: Advanced Android development, responsive web design, and data structures.  
-- 💞️ **I’m looking to collaborate on**: Open-source projects, mobile app development, and impactful web applications.  
+- 🌱 **I’m currently learning**: Full Stack Java development.  
+- 💻 **Technical Skills**:  
+  - **Frontend**: HTML, CSS, JavaScript  
+  - **Backend**: Java  
+  - **Database**: SQL (Oracle)  
+- 💞️ **I’m looking to collaborate on**: Java-based web applications and database-driven projects.  
 - 📫 **How to reach me**:  
   - Email: [yugalkosamshile2002@gmail.com](mailto:yugalkosamshile2002@gmail.com)  
   - LinkedIn: [Yugal Kosamshile](https://www.linkedin.com/in/yugal-kosamshile-29a03a2)  
