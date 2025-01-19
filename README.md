@@ -10,7 +10,8 @@
 - 📫 **How to reach me**:  
   - Email: [yugalkosamshile2002@gmail.com](mailto:yugalkosamshile2002@gmail.com)  
   - LinkedIn: [Yugal Kosamshile](https://www.linkedin.com/in/yugal-kosamshile-29a03a2)  
-  - GitHub: [Yugal-kosamshile](https://github.com/Yugal-kosamshile)  
+  - GitHub: [Yugal-kosamshile](https://github.com/Yugal-kosamshile)
+  - Portfolio: [Yugal-kosamshile](https://yugalk-portfolio.netlify.app/)  
 - 😄 **Pronouns**: He/Him  
 - ⚡ **Fun fact**: I love solving logical puzzles and experimenting with new technologies to create meaningful applications!
 
