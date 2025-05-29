@@ -12,7 +12,7 @@
 💞️ I’m looking to collaborate on: Java-based web applications and database-driven projects.<br><br>
 📫 How to reach me:<br>
   - Email:  [yugalkosamshile2002@gmail.com](mailto:yugalkosamshile2002@gmail.com)<br>
-  - LinkedIn: [Yugal Kosamshile](www.linkedin.com/in/yugal-kosamshile-02yk2002)<br>
+  - LinkedIn: [Yugal Kosamshile](www.linkedin.com/in/yugal-kosamshile)<br>
   - Portfolio: [Yugal-kosamshile](https://yugalk-portfolio.vercel.app/)<br>
 
 😄 Pronouns: He/Him<br><br>⚡ Fun fact: I love solving logical puzzles and experimenting with new technologies to create meaningful applications!
