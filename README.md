@@ -4,21 +4,19 @@
 🚀 Aspiring **Full Stack Java Developer** | 📱 Android & Web Enthusiast | 💡 Innovator at Heart  
 🎓 **B.E. in Computer Science** (2020–2024) | PRPCEM University, Maharashtra
 
----
+
 
 ## 👀 Interests
 - Android App Development  
 - Web Development (Front-end & Back-end)  
 - Building innovative and impactful software solutions
 
----
 
 ## 🌱 Currently Learning
 - Full Stack Java Development  
 - RESTful APIs with **Spring Boot** + **React.js**  
 - State management & reusable UI component design
 
----
 
 ## 💻 Technical Skills
 
@@ -40,7 +38,6 @@
 **Core Concepts**  
 DOM Manipulation | Event-driven Programming | Responsive UI Design
 
----
 
 ## 💼 Projects
 
@@ -56,14 +53,12 @@ A classic browser-based, mobile-responsive game using HTML, CSS, and JavaScript.
 A front-end replica of a streaming platform with carousel, dynamic content loading, and responsive layout.  
 🔗 [Live Site](https://disney-plus-hotstar-clone-eight.vercel.app/) | 💻 [GitHub](https://github.com/Yugal-kosamshile/disney-plus-hotstar-clone)
 
----
 
 ## 🤝 Let's Collaborate On
 - Java-based web applications  
 - Full-stack React.js + Spring Boot projects  
 - Database-driven platforms with RESTful APIs
 
----
 
 ## 📫 Reach Me At
 
@@ -71,7 +66,6 @@ A front-end replica of a streaming platform with carousel, dynamic content loadi
 🔗 **LinkedIn**: [Yugal Kosamshile](https://www.linkedin.com/in/yugal-kosamshile)  
 💻 **GitHub**: [@Yugal-kosamshile](https://github.com/Yugal-kosamshile)
 
----
 
 ## 😄 Pronouns  
 He / Him  
