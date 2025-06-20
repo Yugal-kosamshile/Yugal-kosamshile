@@ -62,7 +62,7 @@ A front-end replica of a streaming platform with carousel, dynamic content loadi
 
 ## 📫 Reach Me At
 
-📧 **Email**: [yugalkosamshile2002@gmail.com](mailto:yugalkosamshile2002@gmail.com)  
+📧 **Email**: [ykosamshile@gmail.com](mailto:ykosamshile@gmail.com)  
 🔗 **LinkedIn**: [Yugal Kosamshile](https://www.linkedin.com/in/yugal-kosamshile)  
 💻 **GitHub**: [@Yugal-kosamshile](https://github.com/Yugal-kosamshile)
 
