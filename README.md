@@ -62,10 +62,13 @@ A front-end replica of a streaming platform with carousel, dynamic content loadi
 
 ## 📫 Reach Me At
 
-📧 **Email**: [ykosamshile@gmail.com](mailto:ykosamshile@gmail.com)  
-🔗 **LinkedIn**: [Yugal Kosamshile](https://www.linkedin.com/in/yugal-kosamshile)  
+📧 **Email**: [ykosamshile@gmail.com](mailto:ykosamshile@gmail.com)
+
+🔗 **LinkedIn**: [Yugal Kosamshile](https://www.linkedin.com/in/yugal-kosamshile)
+
 💻 **GitHub**: [@Yugal-kosamshile](https://github.com/Yugal-kosamshile)
-💻 **Portfolio**: [@Yugal-kosamshile](https://yugalk-portfolio.vercel.app)
+
+👤 **Portfolio**: [yugalk-portfolio](https://yugalk-portfolio.vercel.app) 
 
 
 ## 😄 Pronouns  
